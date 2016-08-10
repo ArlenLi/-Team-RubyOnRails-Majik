@@ -1,0 +1,1 @@
+This project develops an image share web app. Users could upload, download, edit images to the web. More specifications could be checked in the Specification.pdf.
